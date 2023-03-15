@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamhillhandshake&count_private=true&show_icons=true&theme=tokyonight)
 <!--
 **adamhillhandshake/adamhillhandshake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
